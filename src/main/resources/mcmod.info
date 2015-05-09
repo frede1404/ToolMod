@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ToolMod",
+  "name": "Tool Mod",
+  "description": "A mod that adds new tools and materials to your game.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "frede1404"
+  ],
+  "credits": "Check out Pahimar's Lets Mod Reboot Series! Thanks Pahimar!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
