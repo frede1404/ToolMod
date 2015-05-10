@@ -1,9 +1,11 @@
 package com.frede1404.toolmod;
 
 import com.frede1404.toolmod.handler.ConfigurationHandler;
+import com.frede1404.toolmod.init.ModItems;
 import com.frede1404.toolmod.proxy.IProxy;
 import com.frede1404.toolmod.reference.Reference;
 import com.frede1404.toolmod.utility.LogHelper;
+import net.minecraftforge.fml.common.FMLCommonHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -22,9 +24,12 @@ public class ToolMod {
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
+        ModItems.init();
+
         LogHelper.info("Pre Initialization Complete!");
     }
-
     @Mod.EventHandler
     public void init (FMLInitializationEvent event) {
         LogHelper.info("Initialization Complete!");

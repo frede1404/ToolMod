@@ -1,0 +1,41 @@
+[20:20:29] [Client thread/INFO]: Setting user: Player640
+[20:20:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:20:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tool Mod
+[20:20:34] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[20:20:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:20:35] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[20:20:35] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:20:35] [Thread-7/INFO]: OpenAL initialized.
+[20:20:35] [Sound Library Loader/INFO]: Sound engine started
+[20:20:37] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:20:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tool Mod
+[20:20:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[20:20:37] [Client thread/INFO]: SoundSystem shutting down...
+[20:20:38] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:20:38] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:20:38] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[20:20:38] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:20:38] [Thread-9/INFO]: OpenAL initialized.
+[20:20:38] [Sound Library Loader/INFO]: Sound engine started
+[20:20:39] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:20:52] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:20:52] [Server thread/INFO]: Generating keypair
+[20:20:52] [Server thread/INFO]: Preparing start region for level 0
+[20:20:52] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:20:53] [Server thread/INFO]: Player640[local:E:efb32902] logged in with entity id 133 at (-560.5, 6.0, 1849.5)
+[20:20:53] [Server thread/INFO]: Player640 joined the game
+[20:21:00] [Server thread/INFO]: Player640 has just earned the achievement [Taking Inventory]
+[20:21:00] [Client thread/INFO]: [CHAT] Player640 has just earned the achievement [Taking Inventory]
+[20:21:25] [Server thread/INFO]: Saving and pausing game...
+[20:21:25] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:21:25] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:21:25] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:21:26] [Server thread/INFO]: Stopping server
+[20:21:26] [Server thread/INFO]: Saving players
+[20:21:26] [Server thread/INFO]: Saving worlds
+[20:21:26] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:21:26] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:21:26] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:21:30] [Client thread/INFO]: Stopping!
+[20:21:31] [Client thread/INFO]: SoundSystem shutting down...
+[20:21:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
